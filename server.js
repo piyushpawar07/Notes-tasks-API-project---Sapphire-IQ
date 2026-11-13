@@ -3,6 +3,8 @@ import connectToDB from './src/config/database.js';
 import dotenv from 'dotenv';
 dotenv.config();
 
+
+
 connectToDB();
 
 
